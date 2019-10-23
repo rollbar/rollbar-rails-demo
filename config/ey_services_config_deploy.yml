@@ -174,4 +174,4 @@ environments:
     #precompile_unchanged_assets: true
 
 rollbar:
-  ROLLBAR_ACCESS_TOKEN: fc316ac1f7404dc28af26d5baed1416c
+  ROLLBAR_ACCESS_TOKEN: 2fd2af18dfe9430f9077dd4c95f4610b

@@ -12,7 +12,7 @@ Rollbar.configure do |config|
     # feel free to use this access token for testing out api calls and seeing what shows up
     # in the demo.
     # please don't abuse this token. we'll just have to disable it.
-    config.access_token = 'fc316ac1f7404dc28af26d5baed1416c'
+    config.access_token = '2fd2af18dfe9430f9077dd4c95f4610b'
   end
 
   # Without configuration, Rollbar is enabled in all environments.
